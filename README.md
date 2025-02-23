@@ -2,7 +2,7 @@
 📄 My Resume
 Welcome to my GitHub-hosted resume! You can view and download my latest resume using the link below.
 
-🔗 View My Resume
+🔗 View My Resume (https://github.com/Ajay2k4/Resume-/blob/main/Ajay%20Resume.pdf)
 
 📌 About Me
 🚀 Passionate about Software Development | AI/ML | Web Development
